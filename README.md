@@ -1,6 +1,8 @@
 # Echo-Apple-Watch-Vibration-Game
 This is a game for the Apple Watch that uses the vibration motors to make a "call and repeat" challenge
 
+UPDATE: This project won "Best Rookie Hack" :) 
+
 [![Echo App Demo](https://img.youtube.com/vi/YECi5Y9SIac/0.jpg)](https://www.youtube.com/watch?v=YECi5Y9SIac)
 
 https://youtu.be/YECi5Y9SIac
