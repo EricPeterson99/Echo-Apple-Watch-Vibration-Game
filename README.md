@@ -21,7 +21,7 @@ We gave it the name "Echo" because the user feels a set of randomly generated be
 
 Each time they match the pattern correctly the level increases and the difficulty gets harder. Every two levels another beat gets introduced.
 
-## How we built it
+## How I built it
 This app was built using in Xcode, using Swift and the WatchKit api.
 
 The app random generates an array of the time between each beat, the rest range from 0.5 second to 1 second. The rest are always random each level and the amount of beats increase as the user progresses.
@@ -31,7 +31,7 @@ This is feed into a loop that vibrates, then sleeps for the given amount of time
 Next, the user taps the beat and the app records the time between the user's taps and compares that to the original. If the percent error is acceptable, then the app progresses to the next level. If the error is too great, the app sends the user back to level one.
 
 
-## Challenges we ran into
+## Challenges I ran into
 * We had never written anything in Swift before, let alone done mobile development. That made It challenging to start the project, but once we got the syntax and qwirks of Swift and Xcode down it was much easier.
 
 * It took us a while to come up with a solution to produce the beat patterns. Storing an array of the time between each beat made it easy to produce and compare to the users response.
@@ -65,11 +65,11 @@ To overcome this we coded the app to record the time between each tap for the us
     }
 ~~~
 
-## Accomplishments that we're proud of
+## Accomplishments that I'm proud of
 
 I am proud that we learned something completely new. We had no experience in this area, and to produce a working result is very rewarding. This is also something that I plan on using after this Hackathon, it really does fulfill a need for me and I am happy that I'll get to use it.
 
-## What we learned
+## What I learned
 Swift, Xcode, mobile development, WatchKit, icon design
 
 ## What's next for Echo: Apple Watch Vibration Game 
