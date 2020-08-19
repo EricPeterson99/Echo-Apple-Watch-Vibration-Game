@@ -71,8 +71,6 @@ To overcome this we coded the app to record the time between each tap for the us
 
 I am proud that we learned something completely new. We had no experience in this area, and to produce a working result is very rewarding. This is also something that I plan on using after this Hackathon, it really does fulfill a need for me and I am happy that I'll get to use it.
 
-## What I learned
-Swift, Xcode, mobile development, WatchKit, icon design
 
 ## What's next for Echo: Apple Watch Vibration Game 
 * High scores
